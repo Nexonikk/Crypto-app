@@ -4,6 +4,7 @@ import btcSrc from "../assets/btc.png";
 import { motion } from "framer-motion";
 
 const Home = () => {
+    // trdt
     return (
         <Box bgColor={"blackAlpha.900"} w={"full"} h={"90vh"}>
             <motion.div
